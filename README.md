@@ -30,7 +30,7 @@ The dataset used is **HAM10000**, which contains dermoscopic images of seven typ
    - Trained for 20 epochs with learning rate fine-tuning.
 
 3. **Evaluation Metrics**:
-   - **Accuracy**: Training: 93%, Validation: 89%, Test: 88%.
+   - **Accuracy**: Training: 93.75%, Validation: 91.30%, Test: 84%.
    - **IoU (Intersection over Union)**: Average IoU across classes ~0.65.
    - **Pixel Accuracy**: Average ~69%.
 
@@ -40,9 +40,9 @@ The dataset used is **HAM10000**, which contains dermoscopic images of seven typ
 
 ## Results
 ### Accuracy
-- **Training Accuracy**: 93%
-- **Validation Accuracy**: 89%
-- **Test Accuracy**: 88%
+- **Training Accuracy**: 93.75%
+- **Validation Accuracy**: 91.30%
+- **Test Accuracy**: 84%
 
 ### IoU by Class (Sample Scores)
 | Class | IoU Score |
