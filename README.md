@@ -3,13 +3,6 @@ Skin Lesion Classification and Grad-CAM Visualization
 ## Overview
 This project implements a deep learning-based approach for skin lesion classification using the **HAM10000 dataset**. The focus is on accurate melanoma detection while ensuring model interpretability using **Grad-CAM visualizations**. The ResNet50 architecture is fine-tuned to classify skin lesions into seven classes.
 
-## Repository Structure
-Deep-Learning-Skin-Cancer-Detection/
-├── HAM10000_metadata.csv    # Metadata for the HAM10000 dataset
-├── Notebook.ipynb           # Jupyter notebook with the entire workflow
-├── video3729364563.mp4      # Demo video showcasing Grad-CAM visualizations
-├── README.md                # Project description and instructions
-
 
 ## Dataset
 The dataset used is **HAM10000**, which contains dermoscopic images of seven types of skin lesions. Each image has been labeled with one of the following classes:
